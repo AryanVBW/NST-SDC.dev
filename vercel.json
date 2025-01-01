@@ -6,7 +6,7 @@
   "outputDirectory": "build/client",
   "regions": ["bom1"],
   "functions": {
-    "api/*": {
+    "build/server/index.js": {
       "memory": 1024,
       "maxDuration": 10
     }
