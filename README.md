@@ -41,10 +41,10 @@ nst-sdc/
 
 ## 📝 Credits and Attribution
 
-This project is based on [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) by StackBlitz Labs. We maintain the original licensing and attribution while extending the functionality for our specific use case.
+This project is based on [bolt.diy](https://github.com/nst-sdc) by StackBlitz Labs. We maintain the original licensing and attribution while extending the functionality for our specific use case.
 
 ### Original Project Credits
-- **Original Project**: [bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
+- **Original Project**: [bolt.diy](https://github.com/nst-sdc)
 - **Created By**: StackBlitz Labs
 - **License**: MIT
 
@@ -85,7 +85,7 @@ copies or substantial portions of the Software.
 
 - [NST-SDC.dev Website](https://www.nstsdc.org)
 - [GitHub Repository](https://github.com/AryanVBW/NST-SDC.dev)
-- [Original bolt.diy Repository](https://github.com/stackblitz-labs/bolt.diy)
+- [Original bolt.diy Repository](https://github.com/nst-sdc)
 
 ---
 
