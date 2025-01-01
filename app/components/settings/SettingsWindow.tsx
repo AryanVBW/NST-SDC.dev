@@ -102,13 +102,13 @@ export const SettingsWindow = ({ open, onClose }: SettingsProps) => {
                     GitHub
                   </a>
                   <a
-                    href="https://github.com/nst-sdc/NST-SDC.dev"
+                    href="https://www.nstsdc.org/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={classNames(styles['settings-button'], 'flex items-center gap-2')}
                   >
-                    <div className="i-ph:book" />
-                    Docs
+                    <div className="i-ph:book-open-text" />
+                    DevClub Portal
                   </a>
                 </div>
               </div>
