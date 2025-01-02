@@ -173,7 +173,7 @@ export const Workbench = memo(({ chatStarted, isStreaming }: WorkspaceProps) => 
                       onClick={() => {
                         const repoName = prompt(
                           'Please enter a name for your new GitHub repository:',
-                          'bolt-generated-project',
+                          'NST_SDC_project',
                         );
 
                         if (!repoName) {
@@ -185,7 +185,7 @@ export const Workbench = memo(({ chatStarted, isStreaming }: WorkspaceProps) => 
                         const githubToken = Cookies.get('githubToken');
 
                         if (!githubUsername || !githubToken) {
-                          const usernameInput = prompt('Please enter your GitHub username:');
+                          const usernameInput = prompt('Please enter your GitHub username(Ex:AryanVBW):');
                           const tokenInput = prompt('Please enter your GitHub personal access token:');
 
                           if (!usernameInput || !tokenInput) {
